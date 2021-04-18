@@ -1,0 +1,8 @@
+egrep "CPU|Memory|Disk" Stats.txt
+CPU 
+Memory
+Disk
+
+
+
+#
