@@ -9,6 +9,11 @@
 #If it was not successful, indicate we cannot change directories and exit to the terminal with a custom exit code (less than 200).
 
 
-
-
+ls $1 2> /dev/null
+if [[ $? = 0 ]]
+then
+    echo "It was a success"
+else
+    echo "Not working and exit code is "$?""
+fi
 
