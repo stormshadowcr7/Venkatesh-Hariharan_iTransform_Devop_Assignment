@@ -23,6 +23,12 @@ further sent a pull request to the owner of the repository to add my name in the
 Github repository link :- https://github.com/stormshadowcr7/content-git-quickstart/tree/mystory
 
 
+-------CASE STUDY 2-----------
+ 
+ 
+ Succesfully connected using ssh
+
+
 -------CASE STUDY 3-----------
 
 Created a remote repository and added README.md file
