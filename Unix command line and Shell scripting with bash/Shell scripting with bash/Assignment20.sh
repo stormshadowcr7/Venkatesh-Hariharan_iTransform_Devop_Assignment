@@ -9,7 +9,10 @@
 #If it was not successful, indicate we cannot change directories and exit to the terminal with a custom exit code (less than 200).
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c4cc65db5f1cf861ddf61c25ba5f68d1bb64f189
 ls $1 2> /dev/null
 if [[ $? = 0 ]]
 then

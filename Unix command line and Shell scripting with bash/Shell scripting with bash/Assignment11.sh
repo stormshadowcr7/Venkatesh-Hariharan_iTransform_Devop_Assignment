@@ -16,7 +16,7 @@ read -p "Guess my number between 1 to 5:" gnum
 
 if [[ $gnum == $mynum ]]
 then
-	echo "you guessed it ryt boii"
+	echo "you guessed it ryt"
 
 fi	
 
